@@ -2,10 +2,10 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/AdministracionRecursos/AdministracionRecursos.iml" filepath="$PROJECT_DIR$/AdministracionRecursos/AdministracionRecursos.iml" />
       <module fileurl="file://$PROJECT_DIR$/CuidadoAnimales/CuidadoAnimales.iml" filepath="$PROJECT_DIR$/CuidadoAnimales/CuidadoAnimales.iml" />
       <module fileurl="file://$PROJECT_DIR$/GestionHabitats/GestionHabitats.iml" filepath="$PROJECT_DIR$/GestionHabitats/GestionHabitats.iml" />
       <module fileurl="file://$PROJECT_DIR$/MantenimientoSeguridad/MantenimientoSeguridad.iml" filepath="$PROJECT_DIR$/MantenimientoSeguridad/MantenimientoSeguridad.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Recursos/Recursos.iml" filepath="$PROJECT_DIR$/Recursos/Recursos.iml" />
       <module fileurl="file://$PROJECT_DIR$/Visitantes/Visitantes.iml" filepath="$PROJECT_DIR$/Visitantes/Visitantes.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/casofinal-tema2.iml" filepath="$PROJECT_DIR$/.idea/casofinal-tema2.iml" />
     </modules>
